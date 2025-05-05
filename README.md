@@ -1,6 +1,4 @@
-# 🤖 FURIABOT – Chatbot da Torcida FURIA 🐗
-
-# 🐗 FURIABOT – Chatbot Interativo para a Torcida da FURIA
+# 🤖 FURIABOT – Chatbot Interativo para a Torcida da FURIA 
 
 > Projeto desenvolvido para o **Challenge #1 - Experiência Conversacional FURIA**.  
 > Um bot interativo criado com Python e Telegram Bot API, pensado por um fã da FURIA para fãs da FURIA.
